@@ -2,7 +2,7 @@
 
 A minimal and efficient flashlight application for Android devices developed using Java in Android Studio. This app uses the device’s built-in camera flash to provide light instantly.
 
----
+-
 
 ## 📱 Features
 
